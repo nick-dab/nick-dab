@@ -1,8 +1,6 @@
 # 💫 About Me:
 A Full-Stack software engineer with experience in React, Node.js, Express, and TypeScript. <br><br>With a passion for creating and helping others, I recently contributed to the open source community as a developer of BrewKafka: a Kafka metric visualization tool. Also leaned into the power of AI with my work on TrekTips.<br><br>I'm eager to engage in conversations on anything regarding message brokers, Apache Kafka, and AI,recently giving a talk to fellow engineers on message brokers, and Apache Kafka.
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickdabreau) 
 
 # 💻 Tech Stack:
