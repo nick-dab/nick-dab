@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full-Stack software engineer with experience in Java, React, Node.js, Express, and TypeScript. <br><br> with a passion for building impactful solutions. I enjoy exploring cutting-edge technologies and contributing to meaningful projects, whether in open source or within a team setting.<br><br>I'm particularly interested in topics like message brokers, Apache Kafka, and AI. I enjoy sharing knowledge and collaborating with others to tackle complex problems.
+A Full-Stack software engineer with experience in Java, React, Node.js, Express, and TypeScript. <br><br> With a passion for building impactful solutions, I enjoy exploring cutting-edge technologies and contributing to meaningful projects, whether in open source or within a team setting.<br><br>I'm particularly interested in topics like message brokers, Apache Kafka, and AI. I enjoy sharing knowledge and collaborating with others to tackle complex problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickdabreau) 
 
